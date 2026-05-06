@@ -2,7 +2,7 @@
 A repository for various smaller projects or unrelated files that don't warrant a repository of their own
 
 # Assignment2
-A small selection of problems from a computer science class to showcase a basic understanding of C++ coding, nothing more.
+A small selection of problems from a computer science class to showcase a basic understanding of C++ programming, nothing more.
 
 # Pendulum-Pulley-Analysis.ipynb
 A numerical compution of a differential equation related to a physics problem that has no closed analytical solution.
